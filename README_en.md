@@ -2,7 +2,7 @@
 
 [![DOWNLOAD](https://api.bintray.com/packages/warkiz/maven/ferrypermission/images/download.svg)](https://bintray.com/warkiz/maven/ferrypermission/_latestVersion)
 
-A simple runtime permission library on Android. I hope this library enough easy for user.
+A simple runtime permission library on Android. I hope this library enough easy for user.[readme_中文.md](https://github.com/warkiz/FerryPermission/blob/master/README_en.md)
 
 ## Screenshot
 

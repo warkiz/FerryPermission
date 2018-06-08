@@ -2,7 +2,7 @@
 
 [![DOWNLOAD](https://api.bintray.com/packages/warkiz/maven/ferrypermission/images/download.svg)](https://bintray.com/warkiz/maven/ferrypermission/_latestVersion)
 
-Android平台运行时动态申请权限库, 我的目标是 —— 简单且易用。
+Android平台运行时动态申请权限库, 我的目标是 —— 简单且易用。 [Readme_English.md](https://github.com/warkiz/FerryPermission/blob/master/README_en.md)
 
 ## 截图
 
@@ -74,9 +74,9 @@ new FerryPermission(this)
         });
 ```
 
-## 联系
+在API level 23(Marshmallow) 之前，权限会自动交给系统去判断。
 
-如果对此项目有疑问, 欢迎通过下面的方式联系我.
+最后如果对此项目有疑问, 欢迎通过下面的方式联系我.
 
 1. 提交Issue.
 2. 发邮件, warkiz4j@gmail.com
