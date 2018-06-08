@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Build.VERSION_CODES.JELLY_BEAN
         findViewById(R.id.observe).setOnClickListener(this);
         findViewById(R.id.observeCombined).setOnClickListener(this);
         findViewById(R.id.observeEach).setOnClickListener(this);
