@@ -11,7 +11,7 @@ Android平台运行时动态申请权限库, 我的目标是 —— 简单且易
 ## 初始化
 
 ```gradle
-implementation 'com.github.warkiz.ferrypermission:FerryPermission:1.0.0'
+implementation 'com.github.warkiz.ferrypermission:ferrypermission:1.0.0'
 ```
 
 ## 使用
