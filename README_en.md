@@ -11,7 +11,7 @@ A simple runtime permission library on Android. I hope this library enough easy 
 ## Setup
 
 ```gradle
-implementation 'com.github.warkiz.ferrypermission:FerryPermission:1.0.0'
+implementation 'com.github.warkiz.ferrypermission:ferrypermission:1.0.0'
 ```
 
 ## Usage
